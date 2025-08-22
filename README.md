@@ -28,7 +28,7 @@ Aplicar la arquitectura MVVM para organizar el código.
 
 Personalizar los colores de la aplicación utilizando el archivo colors.xml.
 
-🛠 Tecnologías utilizadas
+Tecnologías utilizadas
 
 Lenguaje: Kotlin
 
